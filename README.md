@@ -2,7 +2,8 @@
 
 [![Build Status](https://github.com/justjavac/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/auto-green/actions)
 
-自动保持 GitHub 提交状态常绿。
+自动保持 GitHub 提交状态常绿。![image](https://user-images.githubusercontent.com/117249461/222875599-28ca84c6-03fa-41cd-8fc1-328c4882fec7.png)
+
 
 > a commit a day keeps your girlfriend away.
 
