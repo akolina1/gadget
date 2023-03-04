@@ -20,6 +20,7 @@
 - 修改 [ci.yml 文件的第 7、8 行](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L7-L8) 去掉前面的 `#` 号
 - 修改 [ci.yml 文件的第 19、20 行](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L19-L20) 为自己的 GitHub 账号和昵称
 - (可选) 你可以通过修改 [ci.yml 文件的第 8 行](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L8)来调整频率
+-failed 可以按以下步骤： 进入该 Project -> Settings -> Actions -> General，开启 Workflow 可以读写这个仓库的权限
 
 计划任务语法有 5 个字段，中间用空格分隔，每个字段代表一个时间单位。
 
